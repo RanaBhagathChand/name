@@ -19,6 +19,7 @@ namespace name.Controllers
         public string Get(int id)
         {
             string name = "this is rana";
+            string name2 = "this is rana2";
             return "value";
         }
 
