@@ -18,6 +18,7 @@ namespace name.Controllers
         // GET: api/none/5
         public string Get(int id)
         {
+            string name = "this is rana";
             return "value";
         }
 
